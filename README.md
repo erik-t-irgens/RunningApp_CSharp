@@ -6,7 +6,7 @@
 
 ## Description
 
-This API is used by the [Running app](https://github.com/erik-t-irgens/CIRCLES_MVC). For full schema, please refer to the Swagger documentation (installation instructions below). 
+
 
 ## Setup/Installation Requirements
 
@@ -14,7 +14,7 @@ This API is used by the [Running app](https://github.com/erik-t-irgens/CIRCLES_M
     ```
     $ git clone 
     ```
-2. Navigate to the project directory (Running-API). Restore dependencies, update the local database, and run the API:
+2. Navigate to the project directory (RunningApp_CSharp). Restore dependencies, update the local database, and run the API:
     ```
     $ dotnet restore
     $ dotnet ef database update
@@ -40,4 +40,4 @@ _Please comment below if you have feedback._
 
 *GNU GPLv3*
 
-Copyright (c) 2019 **_Na Hyung Choi, Kelar Crisp, Erik Irgens, and Emerson Jordan_**
+Copyright (c) 2019 **_Erik Irgens_**
